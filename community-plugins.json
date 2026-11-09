@@ -70999,5 +70999,12 @@
     "author": "Lak",
     "description": "随手记录卡片笔记并保留多行排版，按月存入 Markdown 文件，支持标签联想与父子标签聚合. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "r529/collis"
+  },
+  {
+    "id": "antv-infographic-plus",
+    "name": "AntV Infographic",
+    "author": "hcg1023",
+    "description": "Render AntV Infographic diagrams with dual syntax, zoom & pan, fullscreen viewer, drag-to-resize and export.",
+    "repo": "hcg1023/obsidian-infographic-plus"
   }
 ]
